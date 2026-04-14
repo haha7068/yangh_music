@@ -1,6 +1,41 @@
 # yangh_music
 I NEED
 这只是一个线上转接笔记
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 保存为：music_terminal.py
 #!/usr/bin/env python3
 """
